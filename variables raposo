@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mariana Raposo</title>
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Limelight&display=swap" rel="stylesheet">
+
+  <style>
+    body {
+      background-color: #836FFF;
+      color: #000000;
+      font-family: 'Abril Fatface', serif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: flex-start;
+      min-height: 100vh;
+      margin: 0;
+      padding: 40px;
+      text-align: center;
+    }
+
+    h1 {
+      font-family: 'Limelight', cursive;
+      font-size: 2.8em;
+      margin-bottom: 1em;
+    }
+
+    h2 {
+      font-family: 'Limelight', cursive;
+      margin-top: 1.5em;
+      margin-bottom: 0.5em;
+      text-decoration: underline;
+    }
+
+    p, li {
+      line-height: 1.6;
+      margin-bottom: 1.5em;
+      max-width: 700px;
+      font-size: 1em;
+      text-align: justify;
+    }
+
+    ul {
+      list-style-type: square;
+      padding-left: 20px;
+      text-align: left;
+      display: inline-block;
+    }
+
+    img {
+      max-width: 500px;
+      height: auto;
+      border-radius: 10px;
+      margin-top: 40px;
+      box-shadow: 0 6px 18px rgba(0,0,0,0.3);
+    }
+
+    a {
+      color: #000000;
+      font-weight: bold;
+      text-decoration: none;
+    }
+
+    a:hover {
+      color: #333333;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Mariana Raposo</h1>
+
+
+    <img  src="images/mariana.jpg" alt="Fotografia de Mariana Raposo">
+
+  <h2>Biografia Pessoal</h2>
+  <p>
+    Sou estudante de Cinema/CAM e encontro-me na fase final da licenciatura. Tenho 21 anos, nasci em 2004 no Porto e vivo com os meus pais e a minha irmã mais velha. Atualmente trabalho na Casa da Música como assistente de sala, uma experiência que aprecio muito pela boa convivência com os colegas e pelo ambiente positivo criado pela equipa, já tendo tido outros trabalhos.
+  </p>
+  <p>
+    A fotografia e a videografia são as áreas que mais me apaixonam, tanto como hobbies como em contexto profissional. Nos meus tempos livres gosto de fotografar, correr, sair com amigos para convívios e ouvir música, ver filmes e já fui realizadora e assistente de arte de “Why Stop Now” e “Fumar Mata”.
+  </p>
+  <p>
+    Já possuo alguma experiência em eventos e videoclipes, tendo colaborado com várias bandas de metal, tanto como fotógrafa como videógrafa. Este tipo de trabalho entusiasma-me, pois permite-me crescer ao fazer aquilo que realmente gosto. Mais recentemente, tenho colaborado com projetos musicais como Yatanna e My Deer Watson, bem como com a marca de roupa Bonnie. Adoro trabalhar lado a lado com pessoas criativas e ambiciosas, partilhando experiências que me ajudam a evoluir pessoal e profissionalmente.
+  </p>
+  <h2>Formação Académica</h2>
+  <p>
+    Licenciatura em Cinema/CAM (em conclusão).<br>
+    Workshops de fotografia e videografia.<br>
+    Formação em edição de vídeo e produção audiovisual.
+  </p>
+
+  <h2>Interesses e Hobbies</h2>
+  <ul>
+    <li>Fotografia</li>
+    <li>Videografia</li>
+    <li>Passeios ao ar livre</li>
+    <li>Correr</li>
+    <li>Ouvir música</li>
+    <li>Ver filmes</li>
+    <li>Conviver com amigos</li>
+  </ul>
+
+  <h2>Competências</h2>
+  <ul>
+    <li>Fotografia de eventos e videoclipes</li>
+    <li>Videografia </li>
+    <li>Conhecimentos em Premiere </li>
+    <li>Trabalho em equipa</li>
+    <li>Organização e criatividade</li>
+  </ul>
+
+  <h2>Contactos</h2>
+  <p>Email: <a href="mailto:marianavara@gmail.com">marianavara88@gmail.com</a></p>
+  <p>Portefólio: <a href="https://mariana.raposo77.webnode.pt" target="_blank">mariana.raposo77.webnode.pt</a></p>
+
+
+
+
+</body>
+</html>
